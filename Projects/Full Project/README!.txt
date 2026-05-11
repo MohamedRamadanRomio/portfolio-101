@@ -64,3 +64,14 @@ Medication_Log sheet
 3)Frequency was standardized to an understandable non-medical term (Once daily = QD, Twice daily = BID, Three times daily = TID, Four times daily = QID, PRN = As needed)
 
 4) route (iv = intravenous, IM= intramuscular, PO= oral, SC= subcutaneous 
+
+==========================================================================================================================================
+
+Engineering and coding sheet (Added to the original)
+
+1) ICD-10 coding was added 
+2) BP category was added ( hypertension, elevated, normal, hypotension but there was none) 
+3) Age group was added (Young adult < 40, middle age 40 to 59, old age 60 and above)
+4) BMI category was added ( <18.5 underweight, 18.5 to 24.9 normal, 25 to 29.9 over weight, 30 and above obese)
+5) Cholesterol was categorized also for a new column despite it's not so indicative as it's not labeled if it's LDH HDH VLDH 
+6) Glucose category was added ( hypoglycemia, normal, prediabetes, diabetes, hyperglycemia)
